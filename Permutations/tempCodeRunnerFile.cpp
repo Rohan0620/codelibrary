@@ -1,0 +1,1 @@
+   permute(array,0,3);
